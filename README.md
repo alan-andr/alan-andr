@@ -22,5 +22,5 @@ Olá, sou Alan Andrade, tenho 23 anos e estudo para ser um desenvolvedor Front-e
 
 ## Meus principais desafios de projetos:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alan-andr&repo=projeto-android&bg_color=000&border_color=9EC5AB&show_icons=true&icon_color=9EC5AB&title_color=9EC5AB&text_color=FFF)](https://github.com/alan-andr/projeto-android)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alan-andr&repo=projeto-cordel&bg_color=000&border_color=9EC5AB&show_icons=true&icon_color=9EC5AB&title_color=9EC5AB&text_color=FFF)](https://github.com/alan-andr/projeto-cordel)# Alan Andrade
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alan-andr&repo=projeto-cordel&bg_color=000&border_color=9EC5AB&show_icons=true&icon_color=9EC5AB&title_color=9EC5AB&text_color=FFF)](https://github.com/alan-andr/projeto-cordel)
 
