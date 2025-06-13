@@ -1,5 +1,6 @@
 # Alan Andrade
-``` let olaMundo = "Olá, sou Alan Andrade, tenho 23 anos e estudo para ser um desenvolvedor Front-end, atualmente estou estudando JavaScript, e também estou no Santander Bootcamp - 2025."; ```<br>
+``` let olaMundo = "Olá, sou Alan Andrade, tenho 23 anos e estudo para ser um desenvolvedor Front-end, atualmente estou estudando JavaScript, e também estou no Santander Bootcamp - 2025."; ```
+
 ``` console.log(olaMundo);```
 
 Olá, sou Alan Andrade, tenho 23 anos e estudo para ser um desenvolvedor Front-end, atualmente estou estudando JavaScript, e também estou no Santander Bootcamp - 2025.
@@ -16,17 +17,10 @@ Olá, sou Alan Andrade, tenho 23 anos e estudo para ser um desenvolvedor Front-e
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alan-andr&theme=transparent&bg_color=000&border_color=9EC5AB&show_icons=true&icon_color=9EC5AB&title_color=9EC5AB&text_color=FFF)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alan-andr&bg_color=000&border_color=9EC5AB&title_color=9EC5AB&text_color=FFF)
 
 ## Meus principais desafios de projetos:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alan-andr&repo=projeto-android&bg_color=000&border_color=9EC5AB&show_icons=true&icon_color=9EC5AB&title_color=9EC5AB&text_color=FFF)](https://github.com/alan-andr/projeto-android)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alan-andr&repo=projeto-cordel&bg_color=000&border_color=9EC5AB&show_icons=true&icon_color=9EC5AB&title_color=9EC5AB&text_color=FFF)](https://github.com/alan-andr/projeto-cordel)# Alan Andrade
 
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alan-andr&theme=transparent&bg_color=000&border_color=9EC5AB&show_icons=true&icon_color=9EC5AB&title_color=9EC5AB&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alan-andr&bg_color=000&border_color=9EC5AB&title_color=9EC5AB&text_color=FFF)
-
-## Meus principais desafios de projetos:
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alan-andr&repo=projeto-android&bg_color=000&border_color=9EC5AB&show_icons=true&icon_color=9EC5AB&title_color=9EC5AB&text_color=FFF)](https://github.com/alan-andr/projeto-android)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alan-andr&repo=projeto-cordel&bg_color=000&border_color=9EC5AB&show_icons=true&icon_color=9EC5AB&title_color=9EC5AB&text_color=FFF)](https://github.com/alan-andr/projeto-cordel)
