@@ -1,6 +1,6 @@
 # Alan Andrade
 
-Olá, me chamo Alan, tenho 23 anos e estudo para ser um desenvolvedor Front-end, atualmente estou estudando JavaScript, e também estou no Santander Bootcamp - 2025.
+Olá, me chamo Alan, tenho 23 anos e estudo para ser um desenvolvedor Front-end, atualmente estou estudando JavaScript.
 
 ## Caso queira comunicar-se comigo, aqui estão as minhas redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-andr/)
