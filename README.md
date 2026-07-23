@@ -38,5 +38,5 @@
 
 ## 🚀 Meus principais projetos
 
-* 📱 [**Projeto Android**](https://github.com/alan-andr/projeto-android) - *[Coloque aqui uma breve descrição de uma linha]*
-* 📖 [**Projeto Cordel**](https://github.com/alan-andr/projeto-cordel) - *[Coloque aqui uma breve descrição de uma linha]*
+* 📱 [**Projeto Android**](https://github.com/alan-andr/projeto-android) 
+* 📖 [**Projeto Cordel**](https://github.com/alan-andr/projeto-cordel) 
